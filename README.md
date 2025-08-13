@@ -168,7 +168,7 @@ app/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/lolc-customer-app.git
+[git clone https://github.com/haisombo/lAppAOS.git]
 cd lolc-customer-app
 ```
 
@@ -211,7 +211,7 @@ object NetworkModule {
 
 ### Base URL
 ```
-https://sdo-test-api.lolc.com.kh:4433
+https://sdo-test-api.lolc.com.kh:443
 ```
 
 ### Endpoints
@@ -364,13 +364,6 @@ Report: `app/build/reports/lint-results-debug.html`
 - **Coroutines**: Efficient async operations
 - **ViewBinding**: Null-safe view references
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ### Coding Standards
 
@@ -399,7 +392,7 @@ Report: `app/build/reports/lint-results-debug.html`
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Your Name** - *Initial work* - [YourGitHub]([https://github.com/haisombo])
 
 ## 🙏 Acknowledgments
 
