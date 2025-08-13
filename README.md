@@ -392,7 +392,7 @@ Report: `app/build/reports/lint-results-debug.html`
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub]([https://github.com/haisombo])
+- **Hai Sombo** - *Initial work* - [GitHub]([https://github.com/haisombo])
 
 ## 🙏 Acknowledgments
 
