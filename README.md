@@ -19,8 +19,7 @@ A modern Android application built with Kotlin that displays and manages custome
 - [Testing](#testing)
 - [Building & Deployment](#building--deployment)
 - [Contributing](#contributing)
-- [License](#license)
-
+  
 ## ✨ Features
 
 ### Core Functionality
